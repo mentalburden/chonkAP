@@ -14,5 +14,8 @@ Change "BumbleStore" and "PrimeMesh" to whatever you want. The nasty looking for
   -SSL/TLS integration (Try to get HTTPS requests to atleast show a cert error)
   -Multiple cred harvester pages that all look different (with option to change through /chizzard/)
   
+  mentalburden.com
+  tasks@mentalburden.com
+  
   AGAIN, DONT USE THIS FOR ILLEGAL OR IMMORAL ACTIVITIES.
   FOR EDUCATIONAL AND INSTRUCTIONAL PURPOSES ONLY
