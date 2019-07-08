@@ -2,7 +2,7 @@
 
 FOR EDUCATIONAL AND INSTRUCTIONAL PURPOSES ONLY
 
-NodeMCU / 8266 Captive Portal with cred harvester
+<h1>NodeMCU / 8266 Captive Portal with cred harvester</h1>
 
 A very simple 8266 credential harvester with captive portal. Do not use this for anything illegal, it is just a proof of concept.
 Change "BumbleStore" and "PrimeMesh" to whatever you want. The nasty looking for/if loop in credTailStart() is there for a reason, if you use an sprintf or concat function it would lag out the entire box and make server the other pages very slow. Direct string copy seems to work a bit better for whatever reason.
@@ -14,8 +14,8 @@ Additions to be added later (Maybe @_@): <BR>
 -SSL/TLS integration (Try to get HTTPS requests to atleast show a cert error) <BR>
 -Multiple cred harvester pages that all look different (with option to change through /chizzard/) <BR>
   
-  mentalburden.com
+  mentalburden.com <BR>
   tasks@mentalburden.com
   
-  AGAIN, DONT USE THIS FOR ILLEGAL OR IMMORAL ACTIVITIES.
+  AGAIN, DONT USE THIS FOR ILLEGAL OR IMMORAL ACTIVITIES. <BR>
   FOR EDUCATIONAL AND INSTRUCTIONAL PURPOSES ONLY
