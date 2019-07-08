@@ -6,6 +6,9 @@ FOR EDUCATIONAL AND INSTRUCTIONAL PURPOSES ONLY
 
 A very simple 8266 credential harvester with captive portal. Do not use this for anything illegal, it is just a proof of concept.<BR>
 Change "BumbleStore" and "PrimeMesh" to whatever you want. The nasty looking for/if loop in credTailStart() is there for a reason, if you use an sprintf or concat function it would lag out the entire box and cause latency on other GET/POST requests. Direct string copy seems to work a bit better for whatever reason.
+<BR>
+View all harvested creds and HEAP size at <any80address.com>/chizzard/
+
 
 Additions to be added later (Maybe @_@): <BR>
 -SD card mount and write (for use with ESP32-CAM boards) <BR>
